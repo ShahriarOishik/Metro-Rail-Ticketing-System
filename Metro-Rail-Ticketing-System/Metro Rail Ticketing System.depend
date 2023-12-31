@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1703612908 source:c:\users\oishi\downloads\metro rail ticketing system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Block.h"
+	"SpecialFunction.h"
+	"DataTypes.h"
+	"R_W.h"
+	"UserInterface.h"
+
+1703608918 c:\users\oishi\downloads\metro rail ticketing system\block.h
+
+1703611037 c:\users\oishi\downloads\metro rail ticketing system\specialfunction.h
+
+1703612201 c:\users\oishi\downloads\metro rail ticketing system\datatypes.h
+
+1703612613 c:\users\oishi\downloads\metro rail ticketing system\r_w.h
+
+1703608918 c:\users\oishi\downloads\metro rail ticketing system\userinterface.h
+
