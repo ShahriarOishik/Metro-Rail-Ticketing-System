@@ -8,14 +8,14 @@ Meet the talented individuals behind this project:
 - **Shahriar Mahabub Oishik**
   - Role: Team Lead & Backend Developer
   - GitHub: [GitHub Profile](https://github.com/ShahriarOishik)
-  - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/[Member1LinkedIn])
+  - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shahriar-oishik)
 
 - **Pulok Akibuzzaman**
   - Role: Frontend Developer
-  - GitHub: [GitHub Profile](https://github.com/[Member2GitHub])
-  - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/[Member2LinkedIn])
+  - GitHub: [GitHub Profile](https://github.com/Pulok-Akibuzzaman)
+  - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pulok-akibuzzaman-73a21229a/)
 
 - **Md.Ashik-Uz-Zaman**
   - Role: Tester & Bug Hunter
-  - GitHub: [GitHub Profile](https://github.com/[Member3GitHub])
+  - GitHub: [GitHub Profile](https://github.com/ashikonik)
   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/[Member3LinkedIn])
